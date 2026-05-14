@@ -22,3 +22,4 @@ This is my first site about me.
 
 
  ## **I would like to change my career to the IT field to be able to work remotely.**
+theme: jekyll-theme-minimal
